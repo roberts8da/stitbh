@@ -22421,7 +22421,6 @@ Stacktrace:
 #16 0x7f290d89cb84 <unknown>
 #17 0x7f290d929ecc <unknown>
 
-[2026-10-03 13:00:04] 未发现按钮或点击失败: Message: 
 Stacktrace:
 #0 0x55f242f2faaa <unknown>
 #1 0x55f24285daa9 <unknown>
@@ -22547,3 +22546,4 @@ Stacktrace:
 #16 0x7fc88669cb84 <unknown>
 #17 0x7fc886729ecc <unknown>
 
+[2026-10-05 16:44:06] 按钮已点击
